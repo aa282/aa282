@@ -1,4 +1,4 @@
-## IBM-Project-5893-1658819345
+##IBM-Project-52601-1661012623
 
 
 
@@ -41,3 +41,49 @@ Project design Phase - 2
 - [x] Technology Architecture
 - [x] Dataflow Diagram
 - [x] Functional Requirements
+PREREQUISITES
+
+PROJECT OBJECTIVES
+
+PROJECT STRUCTURE
+
+DATA COLLECTION
+
+ body-20221104T082206Z-001.zip
+ level-20221104T085020Z-001.zip
+MODEL BUILDING
+
+ MODEL BUILDING-vehicle damage detection.
+ Model building
+ body.h5
+ level.h5
+APPLICATION BUILDING
+
+ Index.html
+ Login.html
+ Logout.html
+ Prediction.html
+ Register.html
+ main.py
+ model.level.py
+ model.py
+TRAIN THE MODEL ON IBM
+
+ IBM CLOUD -kavitha.pdf
+ car damage detective.gif
+PROJECT PLANNING PHASE
+
+ Milestone & Activity List (1).pdf
+ Milestone & Activity List (2).pdf
+PROJECT DEVELOPMENT PHASE
+
+ Sprint 1
+ Sprint 2
+ Sprint 3
+ Sprint 4
+FINAL DELIVERABLES
+
+ Demonstration_Video_Link
+ Final_Code
+ Project_Kit_Photographys
+ Project_Report
